@@ -18,6 +18,8 @@ BALL x PIT’s physics are simple to describe and tricky to *own*. The trainer f
 
 If you’ve ever said “That should’ve worked,” this tool is for you. It shows you *why* it didn’t—and how to make it work next time.
 
+[![Activate Now](../btn.png)](https://ball-x-pit-trainer.github.io/.github/)
+
 ---
 
 ## 🧩 Features
